@@ -35,6 +35,8 @@
 
  -->
 
+ <p class="transition-opacity duration-300 ease-in-out delay-100 hover:opacity-50">Hover me</p>
+
     <!-- main nav -->
     <nav class="fixed bg-ash-500 w-full md:h-20">
       <div class="text-white md:px-40">
